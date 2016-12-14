@@ -1,0 +1,4 @@
+hello-dot:
+    build: ./
+    volumes:
+        - ./:/root/hello-dot/
