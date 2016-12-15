@@ -13,3 +13,5 @@ $ docker-compose build
 ```bash
 $ docker-compose up 
 ```
+
+And have fun @ `localhost:5000` !
