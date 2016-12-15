@@ -1,17 +1,11 @@
-# HELLO-DOT
+# HELLO-NANCY
 
-A dotnet hello-world application running on docker.
+A NancyFx hello-world application running on docker.
 
 ## Building
 
 ```bash
 $ docker-compose build
-```
-
-## Testing
-
-```bash
-$ docker-compose exec hello-dot dotnet test 
 ```
 
 ## Running

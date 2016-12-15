@@ -1,4 +1,6 @@
-hello-dot:
+hello-nancy:
     build: ./
     volumes:
-        - ./:/root/hello-dot/
+        - ./:/root/hello-nancy/
+    ports:
+        - 5000:5000

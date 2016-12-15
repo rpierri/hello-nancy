@@ -1,7 +1,7 @@
 FROM microsoft/dotnet:latest
 
-ADD . /root/hello-dot/
-WORKDIR /root/hello-dot/
+ADD . /root/hello-nancy/
+WORKDIR /root/hello-nancy/
 
 RUN dotnet restore 
 RUN dotnet build
